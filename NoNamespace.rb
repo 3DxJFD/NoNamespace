@@ -1,3 +1,5 @@
+# This file needs to be moved to the SU Plugins folder to register the extension.
+
 module NoNamespace
     module IntProcess
   
